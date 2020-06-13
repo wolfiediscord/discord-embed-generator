@@ -1,0 +1,13 @@
+{
+  "name": "discord-embed-generator",
+  "version": "1.0.0",
+  "description": "A simple error, success, information, and warning embed generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Wolfie",
+  "license": "MIT",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+}
