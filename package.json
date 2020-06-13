@@ -9,5 +9,9 @@
   "keywords": [],
   "author": "Wolfie",
   "license": "MIT",
+  "repository": {
+  "type": "git",
+   "url": "https://github.com/wolfiediscord/discord-embed-generator.git"
+  },
   "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
